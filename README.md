@@ -16,12 +16,20 @@
 - then go to the Lanuch Program,look over the variables or watch..
   (make sure you use the debugger pannel [stepin or sth else)
 
-## new types
+## new types (keyworks)
 - tuples
 - enum types
 - type aliases
+- interfaces
 - unions and intersections
-- type narrowing
 - nullable typles
 - the unknown type
 - the never type
+
+## new features
+- type narrowing
+- function interface
+- Classes(private,protected)
+- implement interface in class
+- Generics(be used like a placehoder of type instead of any)
+   -- <T> , funcName<...>
